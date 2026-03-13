@@ -18,6 +18,5 @@ I'm Iago Patrick, a Software Developer from Brazil 🇧🇷
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=iAzrxel&show_icons=true&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iAzrxel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAzrxel&layout=compact&theme=tokyonight)
