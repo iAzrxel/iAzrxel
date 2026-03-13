@@ -9,15 +9,6 @@ I'm <b>Iago Patrick</b>, a Software Developer from Brazil 🇧🇷 <br>
 Focused on backend development with Node.js.
 </p>
 
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-💻 Backend Developer focused on Node.js<br>
-⚡ Learning TypeScript and scalable APIs<br>
-🧠 Interested in distributed systems
-</p>
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
