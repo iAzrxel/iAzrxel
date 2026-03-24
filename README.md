@@ -1,4 +1,4 @@
-# Hi there, It's Patrick here! 👋
+# Hey there, It's Patrick here! 👋
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Iago+Patrick;Backend+Developer;Node.js+%7C+TypeScript+%7C+React;Building+APIs+and+systems" />
