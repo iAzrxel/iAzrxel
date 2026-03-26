@@ -26,5 +26,5 @@ Focused on backend development with Node.js.
 
 <p align="center">
 <img height="170" width="405" src="https://github-readme-stats.vercel.app/api?username=iAzrxel&show_icons=true&theme=tokyonight"/>
-<img height="170" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAzrxel&layout=compact&theme=tokyonight"/>
+<img height="170" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iAzrxel&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
