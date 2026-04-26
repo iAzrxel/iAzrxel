@@ -6,7 +6,7 @@
 
 <p align="center">
 I'm <b>Iago Patrick</b>, a Software Developer from Brazil 🇧🇷 <br>
-Focused on backend development with Node.js.
+Focused on backend development.
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
