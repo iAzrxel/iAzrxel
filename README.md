@@ -2,13 +2,13 @@
 
 ---
 
-<img align="right" width="410px" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<img align="right" width="380px" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 I'm a passionate backend developer with a knack for turning ideas into real systems.  
 I'm constantly exploring new ways to build APIs, bots, automation tools and intelligent applications.
 
 <p align="center">
-  <img width="250px" src="https://skillicons.dev/icons?i=ts,nodejs,python,mysql,mongodb,discord,git&theme=dark" />
+  <img width="330px" src="https://skillicons.dev/icons?i=ts,nodejs,python,mysql,mongodb,discord,git&theme=dark" />
 </p>
 
 <details>
