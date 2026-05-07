@@ -2,22 +2,17 @@
 
 ---
 
-<img align="right" width="440px" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<img align="right" width="410px" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 I'm a passionate backend developer with a knack for turning ideas into real systems.  
 I'm constantly exploring new ways to build APIs, bots, automation tools and intelligent applications.
 
-<br>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,mysql,mongodb,discord,git&theme=dark" />
+<p align="center">
+  <img width="330px" src="https://skillicons.dev/icons?i=ts,nodejs,python,mysql,mongodb,discord,git&theme=dark" />
 </p>
-
-<br clear="right"/>
 
 <details>
   <summary>💻 <b>What I Do</b></summary>
-
 <br>
 
 - Backend development with Node.js and TypeScript  
@@ -29,7 +24,7 @@ I'm constantly exploring new ways to build APIs, bots, automation tools and inte
 
 </details>
 
----
+<hr>
 
 <ul>
   <li>💬 Ask me about anything</li>
