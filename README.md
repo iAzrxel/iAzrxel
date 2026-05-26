@@ -27,7 +27,7 @@ I'm constantly exploring new ways to build APIs, bots, automation tools and inte
 ##
 
 <a href="mailto:iagopatrick.dev@gmail.com"><img align="right" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="SEU_LINKEDIN_AQUI"><img align ="right" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href=""><img align ="right" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <ul>
   <li>💬 Ask me about anything</li>
